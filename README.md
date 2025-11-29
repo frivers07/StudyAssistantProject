@@ -40,10 +40,10 @@ For our final demo, we were able to add text to speech and snarky comments the t
 1. Run the python file
 
 2. Upload a PDF of what you want to study (which is optional) by dragging and dropping
+
+3. Put in your study time, break time, and how many cycles you want (has to be more than 0)
    
-3. Choose study method then it will start
+4. Choose study method then it will start
 - Now the model will detect if you are looking at it or if you are distracted and will buzz and speak if you are
 
 4. At the end it will give you a study guide that will help you review your subject of choice
-
-
